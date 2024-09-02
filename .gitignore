@@ -11,6 +11,7 @@
 
 /silentUpgrade*.php
 
+/custom
 /custom/history/
 /custom/modulebuilder/
 /custom/working/
