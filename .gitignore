@@ -11,7 +11,7 @@
 
 /silentUpgrade*.php
 
-vendor/
+vendor/*
 /custom/history/
 /custom/modulebuilder/
 /custom/working/
