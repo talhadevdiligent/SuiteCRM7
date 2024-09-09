@@ -1,5 +1,5 @@
 <?php
-    $dictionary['Contact']['fields']['account_contant_link'] = array(
+    $dictionary['Accounts']['fields']['account_contant_link'] = array(
         'name' => 'account_contant_link',
         'vname' => 'LBL_ACCOUNT_CONTACT',
         'type' => 'link',
